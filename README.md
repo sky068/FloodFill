@@ -1,4 +1,4 @@
-![bbbbb](https://github.com/sky068/FloodFill/assets/11882641/70e1c780-c02a-43ff-ba89-9618cad9d9bb)线稿图填充颜色
+### 线稿图填充颜色
 
 [参考1](https://forum.cocos.org/t/cocos-creator/82612/39)
 
