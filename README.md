@@ -1,4 +1,5 @@
 ### 线稿图填充颜色
+使用cocoscreator 3.8.2版本
 
 [参考1](https://forum.cocos.org/t/cocos-creator/82612/39)
 
